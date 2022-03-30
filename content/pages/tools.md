@@ -13,7 +13,7 @@ Description:
 
 Rayleigh's Problem- Velocity profile due to impulsive motion of x-plane (Refer to Chapter 1-8)
 
-![Rayleigh's Problem.](/courses/civil-and-environmental-engineering/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/tools/velpro.gif)
+{{< resource "f45a9321-1864-3929-f81d-91d3afdc6da6" >}}
 
 Profile Evolution
 -----------------
@@ -22,4 +22,4 @@ Description:
 
 Evolution of the profile of a certain mass of fluid on the inclined plan (Refer to Chapter 2)
 
-![Profile evolution.](/courses/civil-and-environmental-engineering/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/tools/sf01.gif)
+{{< resource "d79239b4-1cf9-99c2-d5bd-93c9fdb9a464" >}}
